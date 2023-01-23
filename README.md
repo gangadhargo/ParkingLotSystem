@@ -2,7 +2,7 @@
 
 Parking Lot System 
 
-Techinologies used: Java, Junit, maven
+Techinologies used: Java, Lombok, Junit, maven
 
 Design Patterns used: Object Oriented Design with Factory Pattern, Strategy Pattern, Builder Pattern
 
